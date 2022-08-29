@@ -1,0 +1,14 @@
+Django==3.1.4
+django-cors-headers==3.7.0
+django-rest-swagger==2.1.2
+djangorestframework
+djangorestframework-simplejwt
+gunicorn==20.0.4
+python3-xlib==0.15
+auditlog3
+django-robots==4.0
+dj-database-url 
+psycopg2
+coreapi
+whitenoise==5.2.0
+PyJWT==1.7.1
